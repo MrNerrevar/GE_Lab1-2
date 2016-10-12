@@ -1,0 +1,6 @@
+﻿  AITank.cpp
+c:\users\jake\documents\games engine 1\labs\ge_lab2-master\asteroidsclasses\aitank.cpp(54): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\jake\documents\games engine 1\labs\ge_lab2-master\asteroidsclasses\aitank.cpp(66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jake\documents\games engine 1\labs\ge_lab2-master\asteroidsclasses\aitank.cpp(67): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  AsteroidsClasses.vcxproj -> C:\Users\Jake\Documents\Games Engine 1\Labs\GE_Lab2-master\Debug\AsteroidsClasses.exe
+  AsteroidsClasses.vcxproj -> C:\Users\Jake\Documents\Games Engine 1\Labs\GE_Lab2-master\Debug\AsteroidsClasses.pdb (Full PDB)
